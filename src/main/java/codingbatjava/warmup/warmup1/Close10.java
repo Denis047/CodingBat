@@ -21,5 +21,6 @@ public class Close10 {
             return b;
         }
         return 0;
+
     }
 }
